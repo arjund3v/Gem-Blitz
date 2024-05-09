@@ -1,5 +1,5 @@
 <h1 align="center"> Gem Blitz </h1>
-<p align="center">A digital board game to see who fills the board with their gems first!</p>
+<p align="center">Unleash the excitement of a Python board game, where clever strategies clash against an AI opponent powered by advanced data structures!</p>
 
 
 # How to run
